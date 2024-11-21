@@ -11,18 +11,17 @@
 - [Como Jogar](#como-jogar)
 - [Níveis e Desafios](#níveis-e-desafios)
 - [Autores](#autores)
-- [Licença](#licença)
 
 ---
 
 ## 🎮 Sobre o Jogo
 - **Gênero:** Plataforma 2D Educativa
 - **Objetivo:** Coletar itens que representam conceitos matemáticos e computacionais para "passar de ano".
-- **Desafios:** Resolver quebra-cabeças baseados em álgebra, lógica e a Máquina de Turing.
+- **Desafios:** lógica e a Máquina de Turing.
 - **Resultado:** 
   - Completar todos os objetivos para vencer e aprender.
   - Caso falhe, o jogador será "reprovado" e terá que tentar novamente.
-
+*------------------//////////////
 ---
 
 ## 🚀 Recursos
@@ -43,16 +42,12 @@
 ---
 
 ## 🎮 Como Jogar
-1. **Instalação:**
-   - Faça o download do jogo no [link disponível aqui](#).
-   - Execute o instalador e siga as instruções.
-
-2. **Controles Básicos:**
+1. **Controles Básicos:**
    - **Movimentação:** Teclas de setas ou **WASD**.
    - **Interagir:** Tecla **E**.
    - **Pular:** Barra de espaço.
 
-3. **Dicas para Iniciantes:**
+2. **Dicas para Iniciantes:**
    - Explore todos os cantos do mapa.
    - Preste atenção aos puzzles e colete itens que desbloqueiam dicas úteis.
    - Enfrente os inimigos com lógica e estratégia!
@@ -61,7 +56,7 @@
 
 ## 🗺️ Níveis e Desafios
 ### 🌟 Fase 1: Conceitos Básicos
-- **Desafios:** Quebra-cabeças simples de álgebra e lógica.
+- **Desafios:** Lógica.
 - **Ambiente:** Cenários que introduzem os primeiros conceitos de computação.
 
 ### 🌟 Fase 2: Avançando na Computação
@@ -71,16 +66,12 @@
 ---
 
 ## 👥 Autores
-O jogo foi desenvolvido por uma equipe dedicada de estudantes e entusiastas da computação:
+O jogo foi desenvolvido por:
 - **Cauã Brito** – 29696941
 - **Eduardo Alexandro Alves Machado** – 29462380
+Documentação por:
 - **Eduardo Roberto Lucena Silva** – 32363181
 - **Andressa Nunes Esteves** – 37783882
-
----
-
-## 📜 Licença
-Este projeto é distribuído sob a licença [MIT](#), permitindo uso, modificação e distribuição com atribuição. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
 
