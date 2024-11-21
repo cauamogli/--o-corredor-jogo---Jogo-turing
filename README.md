@@ -76,4 +76,3 @@ Documentação por:
 ---
 
 🎉 **Divirta-se aprendendo e desafiando sua lógica com "O Estudante de Turing"!**
-
