@@ -44,7 +44,6 @@
 ## 🎮 Como Jogar
 1. **Controles Básicos:**
    - **Movimentação:** Teclas de setas ou **WASD**.
-   - **Interagir:** Tecla **E**.
    - **Pular:** Barra de espaço.
 
 2. **Dicas para Iniciantes:**
